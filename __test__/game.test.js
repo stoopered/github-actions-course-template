@@ -1,6 +1,5 @@
 const Game = require('../src/game').default
 
-
 describe('Game', () => {
   let game, p1, p2
   beforeEach(() => {
